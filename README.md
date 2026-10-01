@@ -1,24 +1,35 @@
-# INDRARISE Platform — Centro Oficial de Descargas
+# PM-AEROTEC Platform — Centro Oficial de Distribución y Descargas
 
-Bienvenido al repositorio oficial de descargas de **INDRARISE Platform** (Radiofrecuencia Industrial).
+![PM-AEROTEC Dashboard Preview](dashboard_preview.png)
+
+Bienvenido al repositorio oficial de **PM-AEROTEC Platform** — Plataforma Unificada de Automatización de Ensayos y Control de Estaciones de Radiofrecuencia (STU, SRU, ACLO).
+
+Desarrollado y administrado por **Pablo Martínez Fernández**.
 
 ---
 
-## Descarga Oficial (Paquete Completo Instalable)
+## 🚀 Descarga Oficial (Paquete Completo Instalable)
 
-| Version | Descripcion | Tamano | Enlace de Descarga Directa |
+| Versión | Descripción | Tamaño | Enlace de Descarga |
 | :--- | :--- | :--- | :--- |
-| **v1.0.0** | Suite Completa con Ejecutables (.exe) de INDRARISE, STU, SRU y ACLO | ~718 MB | [Descargar INDRARISE_v1.0.0_OFICIAL.zip](https://github.com/pablomtecnologia/INDRARISE-Distribucion/releases/download/v1.0.0/INDRARISE_v1.0.0_OFICIAL.zip) |
+| **v2.1.0** | Suite Oficial con Plataforma PM-AEROTEC, STU, SRU y ACLO (Sin código fuente) | ~284 MB | [Descargar PM_AEROTEC_COMPANEROS_DISTRIB.zip](https://github.com/pablomtecnologia/INDRARISE-Distribucion/releases) |
 
 ---
 
-## Instrucciones para Usuarios:
+## 📋 Módulos Integrados
 
-1. **Descarga:** Descarga el archivo comprimido **`INDRARISE_v1.0.0_OFICIAL.zip`** desde la seccion [Releases](https://github.com/pablomtecnologia/INDRARISE-Distribucion/releases).
-2. **Descomprimir:** Extrae el contenido del .zip en tu ordenador o unidad USB.
-3. **Ejecutar:** Haz doble clic en **`INDRARISE.exe`** para iniciar la plataforma.
-4. **Navegacion:** Desde la interfaz principal podras lanzar con un clic las estaciones **STU**, **SRU** y **ACLO**.
-5. **Futuras Actualizaciones:** Las nuevas versiones se podran aplicar automaticamente seleccionando los futuros .zip desde la seccion **Actualizaciones** dentro del propio programa.
+- **📡 STU (Signal Transmitter Unit):** Sistema de comprobación y automatización de unidades transmisoras.
+- **🛰️ SRU (Signal Receiver Unit):** Sistema de recepción, procesamiento y análisis espectral.
+- **⚡ ACLO (Agile Coherent Local Oscillator):** Medición y control de osciladores locales ágiles y coherentes.
 
 ---
-*Desarrollado por Pablo Martinez Fernandez.*
+
+## 🛠️ Instrucciones de Instalación y Uso:
+
+1. **Descargar:** Obtén el archivo comprimido **`PM_AEROTEC_COMPANEROS_DISTRIB.zip`** desde la sección [Releases](https://github.com/pablomtecnologia/INDRARISE-Distribucion/releases).
+2. **Descomprimir:** Extrae el contenido del archivo ZIP en cualquier ubicación o pendrive USB.
+3. **Ejecutar:** Haz doble clic en el ejecutable principal **`INDRARISE.exe`** para iniciar el centro de control.
+4. **Operación:** Desde el Dashboard interactivo podrás iniciar las estaciones STU, SRU y ACLO, consultar planos/BOM, historial de medidas y calibraciones.
+
+---
+© Pablo Martínez Fernández — *Todos los derechos reservados.*
