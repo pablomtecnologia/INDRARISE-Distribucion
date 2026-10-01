@@ -28,7 +28,7 @@ Desarrollado y administrado por **Pablo Martínez Fernández**.
 
 1. **Descargar:** Obtén el archivo comprimido **`PM_AEROTEC_COMPANEROS_DISTRIB.zip`** desde la sección [Releases](https://github.com/pablomtecnologia/INDRARISE-Distribucion/releases).
 2. **Descomprimir:** Extrae el contenido del archivo ZIP en cualquier ubicación o pendrive USB.
-3. **Ejecutar:** Haz doble clic en el ejecutable principal **`INDRARISE.exe`** para iniciar el centro de control.
+3. **Ejecutar:** Haz doble clic en el ejecutable principal **`PM_AEROTEC.exe`** para iniciar el centro de control.
 4. **Operación:** Desde el Dashboard interactivo podrás iniciar las estaciones STU, SRU y ACLO, consultar planos/BOM, historial de medidas y calibraciones.
 
 ---
